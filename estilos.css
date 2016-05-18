@@ -1,0 +1,19 @@
+#contenedor {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+}
+            
+#escapista {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border: 1px black solid;
+    position: absolute;
+}
+
+#instrucciones {
+    font-weight: bold;
+    font-style: italic;
+}
